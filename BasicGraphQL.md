@@ -1,4 +1,4 @@
-# Basic GraphQL in ASP .NET Core (Queries)
+# Basic GraphQL in ASP .NET Core
 
 สมมติว่าเรามีข้อมูล User ในระบบอยู่แล้ว แล้วเราอยากจะดูว่ามีอะไรบ้าง
 

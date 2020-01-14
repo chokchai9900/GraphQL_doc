@@ -90,9 +90,9 @@ public class AppMutation : ObjectGraphType
 
 ก่อน Update
 
-![GitHub Logo](ImageLink)
+![ก่อน Update](https://github.com/chokchai9900/GraphQL_doc/blob/master/picture/afterUpdate.PNG)
 
 
 หลัง Update
 
-![GitHub Logo](ImageLink)
+![หลัง Update](https://github.com/chokchai9900/GraphQL_doc/blob/master/picture/beforeUpdate.PNG)

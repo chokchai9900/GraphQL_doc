@@ -10,10 +10,10 @@
 ---
 
 ## Table of Contents
- - [GraphQL in NestJS](Link)
- - [Basic GraphQL in ASP.NET Core](Link)
- - [GraphQL Queries in ASP.NET Core](Link)
- - [Mutations GraphQL in ASP.NET Core ](Link)
+ - [GraphQL in NestJS](https://github.com/chokchai9900/GraphQL_doc/blob/master/Nestjs.md)
+ - [Basic GraphQL in ASP.NET Core](https://github.com/chokchai9900/GraphQL_doc/blob/master/BasicGraphQL.md)
+ - [GraphQL Queries in ASP.NET Core](https://github.com/chokchai9900/GraphQL_doc/blob/master/GraphQLQueries.md)
+ - [Mutations GraphQL in ASP.NET Core ](https://github.com/chokchai9900/GraphQL_doc/blob/master/AdvancedGraphQL.md)
 
 
 # introduction
