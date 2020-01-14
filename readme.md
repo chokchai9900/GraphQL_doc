@@ -30,7 +30,7 @@ Action หลักๆ ที่เราสามารถทำได้มี
  
 # Original Document Link
 
-* A. blog.nextzy.me/%E0%B8%A1%E0%B8%B2%E0%B8%97%E0%B8%B3%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%81%E0%B8%B1%E0%B8%9A-graphql-%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%96%E0%B8%AD%E0%B8%B0-d0c7d37393c3
-* B. graphql-dotnet.github.io/docs/getting-started/graphiql
-* C. code-maze.com/graphql-asp-net-core-tutorial/
-* D. graphql.org"# GraphQL_doc" 
+* A. https://blog.nextzy.me/%E0%B8%A1%E0%B8%B2%E0%B8%97%E0%B8%B3%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%81%E0%B8%B1%E0%B8%9A-graphql-%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%96%E0%B8%AD%E0%B8%B0-d0c7d37393c3
+* B. https://graphql-dotnet.github.io/docs/getting-started/graphiql
+* C. https://code-maze.com/graphql-asp-net-core-tutorial/
+* D. https://graphql.org/
