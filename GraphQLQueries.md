@@ -98,7 +98,7 @@ public void Configure(IApplicationBuilder app, IHostingEnvironment env){
 
 เมื่อทำเสร็จ ให้ลองรับโปรแกรม แล้วเข้าลิ้งค์ https://localhost:5001/ui/playground เพื่อเข้าสู่ UI ของ GraphQL
 
-![BeginGraphQL](Imahttps://github.com/chokchai9900/GraphQL_doc/blob/master/picture/start.PNGge)
+![BeginGraphQL](https://github.com/chokchai9900/GraphQL_doc/blob/master/picture/start.PNG)
 
 แล้วลอง Queries ข้อมูล โดยใช้ Querie string นี้
 ```json
